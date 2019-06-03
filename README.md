@@ -24,7 +24,7 @@ Merge-A command that lets you take independent lines of development created by g
 
 Merge Conflict-Happens when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge
 
-Fetch- Downloads commits, files and refs from a remote to repository into your local repo. Fethcing is what you do whene you want to see what everybody else has been working on
+Fetch- Downloads commits, files and refs from a remote to repository into your local repo. Fethcing is what you do when you want to see what everybody else has been working on
 
 Remote-A common repository that all team members use to exchange their changes.
 
