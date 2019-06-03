@@ -1,4 +1,9 @@
 # A03
+Document your knowledge of Git, WebStorm, and GitHub by creating a step by step tutorial in your readme file. You need to make a tutorial that you could give to someone else that describes the process of how to use Git and Github. You outside resources as well as my PowerPoint presentations. Cite all references and put the Reference list at the end of the document.
+# Tutorial
+GitHub-is a web-based version-control and collaboration platform for software developer. GitHub will require that you make an account to beable to access all the features it has to offer. Once an account is made you will be brought to a homescreen. Jumping straight into it at the top right corner there will be a plus sign that you will want to click it will give you a selection like "New Repositroy" and "Import Repository" click on New Repository. Creating a repository will be like creating a file for ones self and for others who have been granted permission to use depending on whether you put it on public or private based on your own accords
+
+# Defintions
 GIT-A distributed version-control system for tracking changes in source code during software development, It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
 GITHUB-a web-based version-control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, initiated an acquistion of Github for $7.5billion in June, 2018
